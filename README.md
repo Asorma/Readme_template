@@ -54,7 +54,6 @@ Also here are the [Git & Gitlab slides](https://satlantis.sharepoint.com/:p:/r/s
 
 ## Maintainers
 
-* [David Caruso](https://gitlab-sat.westeurope.cloudapp.azure.com/caruso)
-* [Alén Arias Vázquez](https://gitlab-sat.westeurope.cloudapp.azure.com/arias)
-
+* [Asier Sabin de Ormaetxea Garaizar](https://www.satlantis.com)
+*
 >Put your name here^
